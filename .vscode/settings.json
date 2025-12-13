@@ -1,0 +1,11 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.import.maven.enabled": true,
+    "java.import.gradle.enabled": false,
+    "java.maven.updateSnapshots": true,
+    "java.maven.downloadSources": true,
+    "java.maven.downloadJavadoc": true,
+    "java.annotations.processing.enabled": true,
+    "editor.formatOnSave": true
+}
